@@ -1,0 +1,10 @@
+# my first test
+namespace Parking_Garages_Charges
+{ 
+  internal class Progam
+{ 
+     static void Main(string[] args)
+     {
+     }
+}
+}
